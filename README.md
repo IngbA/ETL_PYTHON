@@ -8,4 +8,4 @@ Este projeto visa utilizar os conhecimentos técnicos na área ciência de dados
 
 **Requests**: Biblioteca para fazer requisições HTTP para a API do Santander Dev Week 2023.
 
-**NLTK**: Usado para processamento de linguagem natural, mas pode ser substituído por outras bibliotecas gratuitas como SpaCy.
+**NLTK**: Usado para processamento de linguagem natural
